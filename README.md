@@ -1,1 +1,3 @@
-# fr
+# GOST - Version Française
+
+En construction...
